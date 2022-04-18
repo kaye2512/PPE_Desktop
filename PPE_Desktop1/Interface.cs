@@ -6,12 +6,28 @@ namespace PPE_Desktop1
         {
             InitializeComponent();
         }
-        Form2 MyForm = new Form2();
+        Generer MyForm = new Generer();
+        Ajouter MyAjout = new Ajouter();
+        Recherche MyRecherche = new Recherche();
         private void btGenere_MouseClick(object sender, MouseEventArgs e)
         {
 
             MyForm.Show();
 
+        }
+
+        private void btAjout_MouseClick(object sender, MouseEventArgs e)
+        { 
+           
+                MyAjout.Show();
+
+           
+            
+        }
+
+        private void btRecherche_MouseClick(object sender, MouseEventArgs e)
+        {
+            MyRecherche.Show();
         }
     }
 }

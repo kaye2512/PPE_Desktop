@@ -1,6 +1,6 @@
 ﻿namespace PPE_Desktop1
 {
-    partial class Form2
+    partial class Generer
     {
         /// <summary>
         /// Required designer variable.

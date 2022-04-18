@@ -12,9 +12,9 @@ using MySql.Data.MySqlClient;
 
 namespace PPE_Desktop1
 {
-    public partial class Form2 : Form
+    public partial class Generer : Form
     {
-        public Form2()
+        public Generer()
         {
             InitializeComponent();
         }
