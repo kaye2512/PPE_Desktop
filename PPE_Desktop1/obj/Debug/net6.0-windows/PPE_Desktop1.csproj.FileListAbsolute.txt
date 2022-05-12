@@ -13,7 +13,6 @@ C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\bin\Debug\net6.0-windows\U
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\bin\Debug\net6.0-windows\ZstdNet.dll
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\bin\Debug\net6.0-windows\QRCoder.dll
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.csproj.AssemblyReference.cache
-C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Interface.resources
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.csproj.GenerateResource.cache
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.AssemblyInfoInputs.cache
@@ -25,7 +24,7 @@ C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\r
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.pdb
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.genruntimeconfig.cache
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\ref\PPE_Desktop1.dll
-C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Connection.resources
-C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Generer.resources
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Ajouter.resources
 C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Recherche.resources
+C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.Form1.resources
+C:\Users\kayer\source\repos\PPE_Desktop1\PPE_Desktop1\obj\Debug\net6.0-windows\PPE_Desktop1.CryptMdp.resources

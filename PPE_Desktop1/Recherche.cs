@@ -29,7 +29,7 @@ namespace PPE_Desktop1
                 string visiteurnom;
                 visiteurnom = tbRecherche.Text;
 
-                string query = "select id, nom, prenom, Email, ville, codeB from visiteur where nom =?nom;";
+                string query = "select id, nom, prenom, Email, ville from visiteur where nom =?nom;";
                 query = Tools.PrepareLigne(query, "?nom", Tools.PrepareChamp(visiteurnom, "Chaine"));
 
                 var cmd = new MySqlCommand(query, dbCon.Connection);
@@ -44,7 +44,7 @@ namespace PPE_Desktop1
                         visiteurprenom = (string)TheReader["prenom"],
                         visiteurEmail = (string)TheReader["Email"],
                         visiteurville = (string)TheReader["ville"],
-                        visiteurcodeB = (string)TheReader["codeB"]
+                        
                     };
                     LesVisiteurTrouver.Add(Unvisiteur);
 
@@ -54,7 +54,7 @@ namespace PPE_Desktop1
                     
                     foreach (Visiteur Unvisiteur in LesVisiteurTrouver)
 
-                        tbResultaRecherche.Text = (Unvisiteur.visiteurid.ToString() + "," + Unvisiteur.visiteurnom + "," + Unvisiteur.visiteurprenom + "," + Unvisiteur.visiteurEmail + "," + Unvisiteur.visiteurville + "," + Unvisiteur.visiteurcodeB);
+                        tbResultaRecherche.Text = (Unvisiteur.visiteurid.ToString() + "," + Unvisiteur.visiteurnom + "," + Unvisiteur.visiteurprenom + "," + Unvisiteur.visiteurEmail + "," + Unvisiteur.visiteurville );
                 }
                 else
                    
